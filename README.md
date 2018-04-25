@@ -1,2 +1,5 @@
 # hello-word
-just another repository
+
+hello!
+
+My name is Gabriel, and I am learning how to use GitHub.
